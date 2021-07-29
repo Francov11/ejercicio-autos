@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio-autos",
+  "version": "1.0.0",
+  "description": "Ejercicio de la meeting 13 sobre swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francov11/ejercicio-autos.git"
+  },
+  "author": "Franco Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francov11/ejercicio-autos/issues"
+  },
+  "homepage": "https://github.com/Francov11/ejercicio-autos#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
